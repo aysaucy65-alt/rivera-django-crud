@@ -1,4 +1,4 @@
-# 🧱 Rivera Django CRUD Project
+# 🧱 Rivera Aseboiii Django CRUD Project
 
 This project is a **Django web application** that demonstrates full **CRUD (Create, Read, Update, Delete)** functionality using **Class-Based Views (CBVs)**.  
 It was created as part of the **ITEC 85 – Information Assurance and Security 1** coursework at Cavite State University.
